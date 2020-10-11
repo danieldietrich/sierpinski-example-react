@@ -96,7 +96,7 @@ const SierpinskiTriangle = () => {
       <div id="stats">
         <div class="lib">
           <span class="lib-name">React</span>
-          <span class="lib-version">10.3.2</span>
+          <span class="lib-version">16.13.1</span>
         </div>
         <div className="fps">{stats.current.fps} fps</div>
         <div className="stat">{width} x {height} px</div>
